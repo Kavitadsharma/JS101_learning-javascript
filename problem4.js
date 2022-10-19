@@ -1,0 +1,16 @@
+let name = "kavita sharma";
+let schoolname = "Shaiffali public school";
+let grade = "12th standard";
+let section = "secton-B";
+let Rollnumber = "roll no-15021583027";
+let marks = "sciencemarks = 98";
+let mathsmarks = "mathsmarks = 90";
+let englishmarks = "englishmarks = 89";
+console.log(name);
+console.log(schoolname);
+console.log(grade);
+console.log(section);
+console.log(Rollnumber);
+console.log(marks);
+console.log(mathsmarks);
+console.log(englishmarks);
